@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Snigdha Ghosh, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Snigdha Ghosh , a full-time full-stack developer 👨‍💻</div>  
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Innovative+coder%2C+lifelong+learner"
